@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Jose Valencia 👋</h1>
+<h1 align="center">¡Hola! Soy Jose Valencia (BardoElViajero) 👋</h1>
 
 <h3 align="center">
   📡 Técnico Analista Programador | Desarrollo Acelerado con IA
@@ -50,10 +50,11 @@ Desarrollé una **Progressive Web App (PWA)** para solucionar la pérdida de tra
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BardoElViajero&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <p><em>(Estas gráficas se actualizarán automáticamente conforme suba código)</em></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=BardoElViajero&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BardoElViajero&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats" height="150" alt="languages graph" />
 </div>
 
