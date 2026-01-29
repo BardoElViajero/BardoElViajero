@@ -53,8 +53,8 @@ Desarrollé una **Progressive Web App (PWA)** para solucionar la pérdida de tra
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BardoElViajero&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BardoElViajero&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats" height="150" alt="languages graph" />
 </div>
 
 ---
